@@ -26,7 +26,7 @@ void katalogItem::removeOrder() {
         node *q;
         node *temp;
 
-        std::cout << "\nEnter the receipt numnber you want to delete: ";
+        std::cout << "\nMasukkan nomor struk pembayaran yang ingin diubah: ";
         std::cin >> num;
         
         bool found = false;
