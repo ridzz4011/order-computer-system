@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.27.7)
-project(computer-management VERSION 0.1.0 LANGUAGES C CXX)
+project(TokoKomputer VERSION 0.1.0 LANGUAGES C CXX)
 
 include(CTest)
 enable_testing()
 
-add_executable(computer-management main.cpp
+add_executable(TokoKomputer main.cpp
 
                src/functionMisc/clearscreen/clearscreen.cpp
                src/functionMisc/loading/loading.cpp
@@ -17,7 +17,7 @@ add_executable(computer-management main.cpp
                src/functionTugas/editOrder.cpp
                src/functionTugas/displayStruk.cpp)
 
-target_include_directories(computer-management PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/include)
+target_include_directories(TokoKomputer PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/include)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
