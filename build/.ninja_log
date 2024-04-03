@@ -1,18 +1,11 @@
 # ninja log v5
-28	982	7336653714261950	CMakeFiles/computer-management.dir/main.cpp.obj	f07efb77ee2f962a
+28	869	7336890952816389	CMakeFiles/computer-management.dir/main.cpp.obj	f07efb77ee2f962a
 38	10683	7336457080534278	CMakeFiles/computer-management.dir/src/functionMisc/clearscreen/clearscreen.cpp.obj	16be28829b6af340
-938	1485	7336669593358167	computer-management.exe	a609c2d2a944ddef
-25	1202	7336642478669698	CMakeFiles/computer-management.dir/src/functionTugas/addItem.cpp.obj	292f4b7dc5db91fc
+53	3525	7336834656771223	CMakeFiles/computer-management.dir/src/functionTugas/addItem.cpp.obj	292f4b7dc5db91fc
 43	3256	7336457006251113	CMakeFiles/computer-management.dir/src/functionMisc/loading/loading.cpp.obj	d8432781282e605a
 60	3510	7336457008749675	CMakeFiles/computer-management.dir/src/functionMisc/pauseconsole/pauseconsole.cpp.obj	26939de0ab649707
-66	3665	7336457009179424	CMakeFiles/computer-management.dir/src/functionMisc/intro/intro.cpp.obj	24ad9eba08243ba8
-17	937	7336669588071171	CMakeFiles/computer-management.dir/src/functionTugas/orderItem.cpp.obj	8e23c7065c2e7031
-75	3135	7336834652492093	CMakeFiles/computer-management.dir/src/functionTugas/editOrder.cpp.obj	f542361d31847adc
-62	3205	7336834653171707	CMakeFiles/computer-management.dir/src/functionTugas/removeOrder.cpp.obj	31cb66d05672d2e6
-47	3227	7336834653491528	CMakeFiles/computer-management.dir/main.cpp.obj	f07efb77ee2f962a
+34	1553	7337463832253311	CMakeFiles/computer-management.dir/src/functionMisc/intro/intro.cpp.obj	24ad9eba08243ba8
 58	3246	7336834653561489	CMakeFiles/computer-management.dir/src/functionTugas/orderItem.cpp.obj	8e23c7065c2e7031
-53	3525	7336834656771223	CMakeFiles/computer-management.dir/src/functionTugas/addItem.cpp.obj	292f4b7dc5db91fc
+75	3135	7336834652492093	CMakeFiles/computer-management.dir/src/functionTugas/editOrder.cpp.obj	f542361d31847adc
+393	7390	7337462794037621	CMakeFiles/computer-management.dir/src/functionTugas/removeOrder.cpp.obj	31cb66d05672d2e6
 82	3536	7336834656821182	CMakeFiles/computer-management.dir/src/functionTugas/displayStruk.cpp.obj	503754e601c3c1de
-3536	4415	7336834665584882	computer-management.exe	4b9109373e835c18
-28	869	7336890952816389	CMakeFiles/computer-management.dir/main.cpp.obj	f07efb77ee2f962a
-870	1294	7336890956384335	computer-management.exe	4b9109373e835c18

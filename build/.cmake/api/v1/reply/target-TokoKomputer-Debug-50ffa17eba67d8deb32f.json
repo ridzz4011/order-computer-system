@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "computer-management.exe"
+			"path" : "TokoKomputer.exe"
 		},
 		{
-			"path" : "computer-management.pdb"
+			"path" : "TokoKomputer.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -71,7 +71,7 @@
 			]
 		}
 	],
-	"id" : "computer-management::@6890427a1f51a3e7e1df",
+	"id" : "TokoKomputer::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -91,8 +91,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "computer-management",
-	"nameOnDisk" : "computer-management.exe",
+	"name" : "TokoKomputer",
+	"nameOnDisk" : "TokoKomputer.exe",
 	"paths" : 
 	{
 		"build" : ".",

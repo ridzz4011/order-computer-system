@@ -55,7 +55,7 @@
 					[
 						0
 					],
-					"name" : "computer-management",
+					"name" : "TokoKomputer",
 					"targetIndexes" : 
 					[
 						0,
@@ -290,9 +290,9 @@
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "computer-management::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-computer-management-Debug-9ebe5673af698b389049.json",
-					"name" : "computer-management",
+					"id" : "TokoKomputer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TokoKomputer-Debug-50ffa17eba67d8deb32f.json",
+					"name" : "TokoKomputer",
 					"projectIndex" : 0
 				}
 			]

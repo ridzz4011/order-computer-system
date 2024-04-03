@@ -17,11 +17,11 @@ void Intro() {
     std::cout << "\n" ;
 
     std::cout << "\n\t\t" << "           +--------------------+" ;
-    std::cout << "\n\t\t" << "           |     Praktikum 1    |" ;
+    std::cout << "\n\t\t" << "           |     Program UTS    |" ;
     std::cout << "\n\t\t" << "+------------------------------------------+" ;
-    std::cout << "\n\t\t" << "| Nama :                  Farid Noer Hakim |" ;
-    std::cout << "\n\t\t" << "| NPM :                      2310631170081 |" ;
-    std::cout << "\n\t\t" << "| Kelas :                   2C Informatika |" ;
+    std::cout << "\n\t\t" << "| Nama :                                   |" ;
+    std::cout << "\n\t\t" << "| NPM :                                    |" ;
+    std::cout << "\n\t\t" << "| Kelas :                                  |" ;
     std::cout << "\n\t\t" << "+------------------------------------------+" ;
 
     std::cout << "\n\n" ;

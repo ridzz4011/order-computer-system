@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: computer-management
+# Project: TokoKomputer
 # Configurations: Debug
 # =============================================================================
 
@@ -209,101 +209,101 @@ build ContinuousMemCheck: phony CMakeFiles/ContinuousMemCheck
 build ContinuousSubmit: phony CMakeFiles/ContinuousSubmit
 
 # =============================================================================
-# Object build statements for EXECUTABLE target computer-management
+# Object build statements for EXECUTABLE target TokoKomputer
 
 
 #############################################
-# Order-only phony target for computer-management
+# Order-only phony target for TokoKomputer
 
-build cmake_object_order_depends_target_computer-management: phony || CMakeFiles/computer-management.dir
+build cmake_object_order_depends_target_TokoKomputer: phony || CMakeFiles/TokoKomputer.dir
 
-build CMakeFiles/computer-management.dir/main.cpp.obj: CXX_COMPILER__computer-management_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/main.cpp || cmake_object_order_depends_target_computer-management
-  DEP_FILE = CMakeFiles\computer-management.dir\main.cpp.obj.d
+build CMakeFiles/TokoKomputer.dir/main.cpp.obj: CXX_COMPILER__TokoKomputer_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/main.cpp || cmake_object_order_depends_target_TokoKomputer
+  DEP_FILE = CMakeFiles\TokoKomputer.dir\main.cpp.obj.d
   FLAGS = -g
   INCLUDES = -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include
-  OBJECT_DIR = CMakeFiles\computer-management.dir
-  OBJECT_FILE_DIR = CMakeFiles\computer-management.dir
+  OBJECT_DIR = CMakeFiles\TokoKomputer.dir
+  OBJECT_FILE_DIR = CMakeFiles\TokoKomputer.dir
 
-build CMakeFiles/computer-management.dir/src/functionMisc/clearscreen/clearscreen.cpp.obj: CXX_COMPILER__computer-management_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionMisc/clearscreen/clearscreen.cpp || cmake_object_order_depends_target_computer-management
-  DEP_FILE = CMakeFiles\computer-management.dir\src\functionMisc\clearscreen\clearscreen.cpp.obj.d
+build CMakeFiles/TokoKomputer.dir/src/functionMisc/clearscreen/clearscreen.cpp.obj: CXX_COMPILER__TokoKomputer_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionMisc/clearscreen/clearscreen.cpp || cmake_object_order_depends_target_TokoKomputer
+  DEP_FILE = CMakeFiles\TokoKomputer.dir\src\functionMisc\clearscreen\clearscreen.cpp.obj.d
   FLAGS = -g
   INCLUDES = -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include
-  OBJECT_DIR = CMakeFiles\computer-management.dir
-  OBJECT_FILE_DIR = CMakeFiles\computer-management.dir\src\functionMisc\clearscreen
+  OBJECT_DIR = CMakeFiles\TokoKomputer.dir
+  OBJECT_FILE_DIR = CMakeFiles\TokoKomputer.dir\src\functionMisc\clearscreen
 
-build CMakeFiles/computer-management.dir/src/functionMisc/loading/loading.cpp.obj: CXX_COMPILER__computer-management_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionMisc/loading/loading.cpp || cmake_object_order_depends_target_computer-management
-  DEP_FILE = CMakeFiles\computer-management.dir\src\functionMisc\loading\loading.cpp.obj.d
+build CMakeFiles/TokoKomputer.dir/src/functionMisc/loading/loading.cpp.obj: CXX_COMPILER__TokoKomputer_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionMisc/loading/loading.cpp || cmake_object_order_depends_target_TokoKomputer
+  DEP_FILE = CMakeFiles\TokoKomputer.dir\src\functionMisc\loading\loading.cpp.obj.d
   FLAGS = -g
   INCLUDES = -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include
-  OBJECT_DIR = CMakeFiles\computer-management.dir
-  OBJECT_FILE_DIR = CMakeFiles\computer-management.dir\src\functionMisc\loading
+  OBJECT_DIR = CMakeFiles\TokoKomputer.dir
+  OBJECT_FILE_DIR = CMakeFiles\TokoKomputer.dir\src\functionMisc\loading
 
-build CMakeFiles/computer-management.dir/src/functionMisc/pauseconsole/pauseconsole.cpp.obj: CXX_COMPILER__computer-management_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionMisc/pauseconsole/pauseconsole.cpp || cmake_object_order_depends_target_computer-management
-  DEP_FILE = CMakeFiles\computer-management.dir\src\functionMisc\pauseconsole\pauseconsole.cpp.obj.d
+build CMakeFiles/TokoKomputer.dir/src/functionMisc/pauseconsole/pauseconsole.cpp.obj: CXX_COMPILER__TokoKomputer_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionMisc/pauseconsole/pauseconsole.cpp || cmake_object_order_depends_target_TokoKomputer
+  DEP_FILE = CMakeFiles\TokoKomputer.dir\src\functionMisc\pauseconsole\pauseconsole.cpp.obj.d
   FLAGS = -g
   INCLUDES = -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include
-  OBJECT_DIR = CMakeFiles\computer-management.dir
-  OBJECT_FILE_DIR = CMakeFiles\computer-management.dir\src\functionMisc\pauseconsole
+  OBJECT_DIR = CMakeFiles\TokoKomputer.dir
+  OBJECT_FILE_DIR = CMakeFiles\TokoKomputer.dir\src\functionMisc\pauseconsole
 
-build CMakeFiles/computer-management.dir/src/functionMisc/intro/intro.cpp.obj: CXX_COMPILER__computer-management_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionMisc/intro/intro.cpp || cmake_object_order_depends_target_computer-management
-  DEP_FILE = CMakeFiles\computer-management.dir\src\functionMisc\intro\intro.cpp.obj.d
+build CMakeFiles/TokoKomputer.dir/src/functionMisc/intro/intro.cpp.obj: CXX_COMPILER__TokoKomputer_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionMisc/intro/intro.cpp || cmake_object_order_depends_target_TokoKomputer
+  DEP_FILE = CMakeFiles\TokoKomputer.dir\src\functionMisc\intro\intro.cpp.obj.d
   FLAGS = -g
   INCLUDES = -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include
-  OBJECT_DIR = CMakeFiles\computer-management.dir
-  OBJECT_FILE_DIR = CMakeFiles\computer-management.dir\src\functionMisc\intro
+  OBJECT_DIR = CMakeFiles\TokoKomputer.dir
+  OBJECT_FILE_DIR = CMakeFiles\TokoKomputer.dir\src\functionMisc\intro
 
-build CMakeFiles/computer-management.dir/src/functionTugas/addItem.cpp.obj: CXX_COMPILER__computer-management_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionTugas/addItem.cpp || cmake_object_order_depends_target_computer-management
-  DEP_FILE = CMakeFiles\computer-management.dir\src\functionTugas\addItem.cpp.obj.d
+build CMakeFiles/TokoKomputer.dir/src/functionTugas/addItem.cpp.obj: CXX_COMPILER__TokoKomputer_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionTugas/addItem.cpp || cmake_object_order_depends_target_TokoKomputer
+  DEP_FILE = CMakeFiles\TokoKomputer.dir\src\functionTugas\addItem.cpp.obj.d
   FLAGS = -g
   INCLUDES = -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include
-  OBJECT_DIR = CMakeFiles\computer-management.dir
-  OBJECT_FILE_DIR = CMakeFiles\computer-management.dir\src\functionTugas
+  OBJECT_DIR = CMakeFiles\TokoKomputer.dir
+  OBJECT_FILE_DIR = CMakeFiles\TokoKomputer.dir\src\functionTugas
 
-build CMakeFiles/computer-management.dir/src/functionTugas/orderItem.cpp.obj: CXX_COMPILER__computer-management_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionTugas/orderItem.cpp || cmake_object_order_depends_target_computer-management
-  DEP_FILE = CMakeFiles\computer-management.dir\src\functionTugas\orderItem.cpp.obj.d
+build CMakeFiles/TokoKomputer.dir/src/functionTugas/orderItem.cpp.obj: CXX_COMPILER__TokoKomputer_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionTugas/orderItem.cpp || cmake_object_order_depends_target_TokoKomputer
+  DEP_FILE = CMakeFiles\TokoKomputer.dir\src\functionTugas\orderItem.cpp.obj.d
   FLAGS = -g
   INCLUDES = -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include
-  OBJECT_DIR = CMakeFiles\computer-management.dir
-  OBJECT_FILE_DIR = CMakeFiles\computer-management.dir\src\functionTugas
+  OBJECT_DIR = CMakeFiles\TokoKomputer.dir
+  OBJECT_FILE_DIR = CMakeFiles\TokoKomputer.dir\src\functionTugas
 
-build CMakeFiles/computer-management.dir/src/functionTugas/removeOrder.cpp.obj: CXX_COMPILER__computer-management_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionTugas/removeOrder.cpp || cmake_object_order_depends_target_computer-management
-  DEP_FILE = CMakeFiles\computer-management.dir\src\functionTugas\removeOrder.cpp.obj.d
+build CMakeFiles/TokoKomputer.dir/src/functionTugas/removeOrder.cpp.obj: CXX_COMPILER__TokoKomputer_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionTugas/removeOrder.cpp || cmake_object_order_depends_target_TokoKomputer
+  DEP_FILE = CMakeFiles\TokoKomputer.dir\src\functionTugas\removeOrder.cpp.obj.d
   FLAGS = -g
   INCLUDES = -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include
-  OBJECT_DIR = CMakeFiles\computer-management.dir
-  OBJECT_FILE_DIR = CMakeFiles\computer-management.dir\src\functionTugas
+  OBJECT_DIR = CMakeFiles\TokoKomputer.dir
+  OBJECT_FILE_DIR = CMakeFiles\TokoKomputer.dir\src\functionTugas
 
-build CMakeFiles/computer-management.dir/src/functionTugas/editOrder.cpp.obj: CXX_COMPILER__computer-management_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionTugas/editOrder.cpp || cmake_object_order_depends_target_computer-management
-  DEP_FILE = CMakeFiles\computer-management.dir\src\functionTugas\editOrder.cpp.obj.d
+build CMakeFiles/TokoKomputer.dir/src/functionTugas/editOrder.cpp.obj: CXX_COMPILER__TokoKomputer_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionTugas/editOrder.cpp || cmake_object_order_depends_target_TokoKomputer
+  DEP_FILE = CMakeFiles\TokoKomputer.dir\src\functionTugas\editOrder.cpp.obj.d
   FLAGS = -g
   INCLUDES = -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include
-  OBJECT_DIR = CMakeFiles\computer-management.dir
-  OBJECT_FILE_DIR = CMakeFiles\computer-management.dir\src\functionTugas
+  OBJECT_DIR = CMakeFiles\TokoKomputer.dir
+  OBJECT_FILE_DIR = CMakeFiles\TokoKomputer.dir\src\functionTugas
 
-build CMakeFiles/computer-management.dir/src/functionTugas/displayStruk.cpp.obj: CXX_COMPILER__computer-management_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionTugas/displayStruk.cpp || cmake_object_order_depends_target_computer-management
-  DEP_FILE = CMakeFiles\computer-management.dir\src\functionTugas\displayStruk.cpp.obj.d
+build CMakeFiles/TokoKomputer.dir/src/functionTugas/displayStruk.cpp.obj: CXX_COMPILER__TokoKomputer_unscanned_Debug F$:/Tugas/strukturData/cpp/UTS/order-computer-system/src/functionTugas/displayStruk.cpp || cmake_object_order_depends_target_TokoKomputer
+  DEP_FILE = CMakeFiles\TokoKomputer.dir\src\functionTugas\displayStruk.cpp.obj.d
   FLAGS = -g
   INCLUDES = -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include
-  OBJECT_DIR = CMakeFiles\computer-management.dir
-  OBJECT_FILE_DIR = CMakeFiles\computer-management.dir\src\functionTugas
+  OBJECT_DIR = CMakeFiles\TokoKomputer.dir
+  OBJECT_FILE_DIR = CMakeFiles\TokoKomputer.dir\src\functionTugas
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target computer-management
+# Link build statements for EXECUTABLE target TokoKomputer
 
 
 #############################################
-# Link the executable computer-management.exe
+# Link the executable TokoKomputer.exe
 
-build computer-management.exe: CXX_EXECUTABLE_LINKER__computer-management_Debug CMakeFiles/computer-management.dir/main.cpp.obj CMakeFiles/computer-management.dir/src/functionMisc/clearscreen/clearscreen.cpp.obj CMakeFiles/computer-management.dir/src/functionMisc/loading/loading.cpp.obj CMakeFiles/computer-management.dir/src/functionMisc/pauseconsole/pauseconsole.cpp.obj CMakeFiles/computer-management.dir/src/functionMisc/intro/intro.cpp.obj CMakeFiles/computer-management.dir/src/functionTugas/addItem.cpp.obj CMakeFiles/computer-management.dir/src/functionTugas/orderItem.cpp.obj CMakeFiles/computer-management.dir/src/functionTugas/removeOrder.cpp.obj CMakeFiles/computer-management.dir/src/functionTugas/editOrder.cpp.obj CMakeFiles/computer-management.dir/src/functionTugas/displayStruk.cpp.obj
+build TokoKomputer.exe: CXX_EXECUTABLE_LINKER__TokoKomputer_Debug CMakeFiles/TokoKomputer.dir/main.cpp.obj CMakeFiles/TokoKomputer.dir/src/functionMisc/clearscreen/clearscreen.cpp.obj CMakeFiles/TokoKomputer.dir/src/functionMisc/loading/loading.cpp.obj CMakeFiles/TokoKomputer.dir/src/functionMisc/pauseconsole/pauseconsole.cpp.obj CMakeFiles/TokoKomputer.dir/src/functionMisc/intro/intro.cpp.obj CMakeFiles/TokoKomputer.dir/src/functionTugas/addItem.cpp.obj CMakeFiles/TokoKomputer.dir/src/functionTugas/orderItem.cpp.obj CMakeFiles/TokoKomputer.dir/src/functionTugas/removeOrder.cpp.obj CMakeFiles/TokoKomputer.dir/src/functionTugas/editOrder.cpp.obj CMakeFiles/TokoKomputer.dir/src/functionTugas/displayStruk.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\computer-management.dir
+  OBJECT_DIR = CMakeFiles\TokoKomputer.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = computer-management.exe
-  TARGET_IMPLIB = libcomputer-management.dll.a
-  TARGET_PDB = computer-management.exe.dbg
+  TARGET_FILE = TokoKomputer.exe
+  TARGET_IMPLIB = libTokoKomputer.dll.a
+  TARGET_PDB = TokoKomputer.exe.dbg
 
 
 #############################################
@@ -592,7 +592,7 @@ build CMakeFiles/ContinuousSubmit | ${cmake_ninja_workdir}CMakeFiles/ContinuousS
 # =============================================================================
 # Target aliases.
 
-build computer-management: phony computer-management.exe
+build TokoKomputer: phony TokoKomputer.exe
 
 # =============================================================================
 # Folder targets.
@@ -602,7 +602,7 @@ build computer-management: phony computer-management.exe
 #############################################
 # Folder: F:/Tugas/strukturData/cpp/UTS/order-computer-system/build
 
-build all: phony computer-management.exe
+build all: phony TokoKomputer.exe
 
 # =============================================================================
 # Built-in targets

@@ -26,7 +26,7 @@ F:/Tugas/strukturData/cpp/UTS/order-computer-system/build/CMakeFiles/ContinuousT
 F:/Tugas/strukturData/cpp/UTS/order-computer-system/build/CMakeFiles/ContinuousCoverage.dir
 F:/Tugas/strukturData/cpp/UTS/order-computer-system/build/CMakeFiles/ContinuousMemCheck.dir
 F:/Tugas/strukturData/cpp/UTS/order-computer-system/build/CMakeFiles/ContinuousSubmit.dir
-F:/Tugas/strukturData/cpp/UTS/order-computer-system/build/CMakeFiles/computer-management.dir
+F:/Tugas/strukturData/cpp/UTS/order-computer-system/build/CMakeFiles/TokoKomputer.dir
 F:/Tugas/strukturData/cpp/UTS/order-computer-system/build/CMakeFiles/package.dir
 F:/Tugas/strukturData/cpp/UTS/order-computer-system/build/CMakeFiles/package_source.dir
 F:/Tugas/strukturData/cpp/UTS/order-computer-system/build/CMakeFiles/test.dir

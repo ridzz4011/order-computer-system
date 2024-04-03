@@ -891,7 +891,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "computer-management"
+			"value" : "TokoKomputer"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",
@@ -1648,6 +1648,42 @@
 			],
 			"type" : "STRING",
 			"value" : "DESKTOP-I5776GL"
+		},
+		{
+			"name" : "TokoKomputer_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "F:/Tugas/strukturData/cpp/UTS/order-computer-system/build"
+		},
+		{
+			"name" : "TokoKomputer_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "TokoKomputer_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "F:/Tugas/strukturData/cpp/UTS/order-computer-system"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

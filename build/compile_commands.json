@@ -1,62 +1,62 @@
 [
 {
   "directory": "F:/Tugas/strukturData/cpp/UTS/order-computer-system/build",
-  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\computer-management.dir\\main.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\main.cpp",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\TokoKomputer.dir\\main.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\main.cpp",
   "file": "F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\main.cpp",
-  "output": "CMakeFiles\\computer-management.dir\\main.cpp.obj"
+  "output": "CMakeFiles\\TokoKomputer.dir\\main.cpp.obj"
 },
 {
   "directory": "F:/Tugas/strukturData/cpp/UTS/order-computer-system/build",
-  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\computer-management.dir\\src\\functionMisc\\clearscreen\\clearscreen.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionMisc\\clearscreen\\clearscreen.cpp",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\TokoKomputer.dir\\src\\functionMisc\\clearscreen\\clearscreen.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionMisc\\clearscreen\\clearscreen.cpp",
   "file": "F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionMisc\\clearscreen\\clearscreen.cpp",
-  "output": "CMakeFiles\\computer-management.dir\\src\\functionMisc\\clearscreen\\clearscreen.cpp.obj"
+  "output": "CMakeFiles\\TokoKomputer.dir\\src\\functionMisc\\clearscreen\\clearscreen.cpp.obj"
 },
 {
   "directory": "F:/Tugas/strukturData/cpp/UTS/order-computer-system/build",
-  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\computer-management.dir\\src\\functionMisc\\loading\\loading.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionMisc\\loading\\loading.cpp",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\TokoKomputer.dir\\src\\functionMisc\\loading\\loading.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionMisc\\loading\\loading.cpp",
   "file": "F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionMisc\\loading\\loading.cpp",
-  "output": "CMakeFiles\\computer-management.dir\\src\\functionMisc\\loading\\loading.cpp.obj"
+  "output": "CMakeFiles\\TokoKomputer.dir\\src\\functionMisc\\loading\\loading.cpp.obj"
 },
 {
   "directory": "F:/Tugas/strukturData/cpp/UTS/order-computer-system/build",
-  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\computer-management.dir\\src\\functionMisc\\pauseconsole\\pauseconsole.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionMisc\\pauseconsole\\pauseconsole.cpp",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\TokoKomputer.dir\\src\\functionMisc\\pauseconsole\\pauseconsole.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionMisc\\pauseconsole\\pauseconsole.cpp",
   "file": "F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionMisc\\pauseconsole\\pauseconsole.cpp",
-  "output": "CMakeFiles\\computer-management.dir\\src\\functionMisc\\pauseconsole\\pauseconsole.cpp.obj"
+  "output": "CMakeFiles\\TokoKomputer.dir\\src\\functionMisc\\pauseconsole\\pauseconsole.cpp.obj"
 },
 {
   "directory": "F:/Tugas/strukturData/cpp/UTS/order-computer-system/build",
-  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\computer-management.dir\\src\\functionMisc\\intro\\intro.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionMisc\\intro\\intro.cpp",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\TokoKomputer.dir\\src\\functionMisc\\intro\\intro.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionMisc\\intro\\intro.cpp",
   "file": "F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionMisc\\intro\\intro.cpp",
-  "output": "CMakeFiles\\computer-management.dir\\src\\functionMisc\\intro\\intro.cpp.obj"
+  "output": "CMakeFiles\\TokoKomputer.dir\\src\\functionMisc\\intro\\intro.cpp.obj"
 },
 {
   "directory": "F:/Tugas/strukturData/cpp/UTS/order-computer-system/build",
-  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\computer-management.dir\\src\\functionTugas\\addItem.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\addItem.cpp",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\TokoKomputer.dir\\src\\functionTugas\\addItem.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\addItem.cpp",
   "file": "F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\addItem.cpp",
-  "output": "CMakeFiles\\computer-management.dir\\src\\functionTugas\\addItem.cpp.obj"
+  "output": "CMakeFiles\\TokoKomputer.dir\\src\\functionTugas\\addItem.cpp.obj"
 },
 {
   "directory": "F:/Tugas/strukturData/cpp/UTS/order-computer-system/build",
-  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\computer-management.dir\\src\\functionTugas\\orderItem.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\orderItem.cpp",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\TokoKomputer.dir\\src\\functionTugas\\orderItem.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\orderItem.cpp",
   "file": "F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\orderItem.cpp",
-  "output": "CMakeFiles\\computer-management.dir\\src\\functionTugas\\orderItem.cpp.obj"
+  "output": "CMakeFiles\\TokoKomputer.dir\\src\\functionTugas\\orderItem.cpp.obj"
 },
 {
   "directory": "F:/Tugas/strukturData/cpp/UTS/order-computer-system/build",
-  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\computer-management.dir\\src\\functionTugas\\removeOrder.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\removeOrder.cpp",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\TokoKomputer.dir\\src\\functionTugas\\removeOrder.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\removeOrder.cpp",
   "file": "F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\removeOrder.cpp",
-  "output": "CMakeFiles\\computer-management.dir\\src\\functionTugas\\removeOrder.cpp.obj"
+  "output": "CMakeFiles\\TokoKomputer.dir\\src\\functionTugas\\removeOrder.cpp.obj"
 },
 {
   "directory": "F:/Tugas/strukturData/cpp/UTS/order-computer-system/build",
-  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\computer-management.dir\\src\\functionTugas\\editOrder.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\editOrder.cpp",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\TokoKomputer.dir\\src\\functionTugas\\editOrder.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\editOrder.cpp",
   "file": "F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\editOrder.cpp",
-  "output": "CMakeFiles\\computer-management.dir\\src\\functionTugas\\editOrder.cpp.obj"
+  "output": "CMakeFiles\\TokoKomputer.dir\\src\\functionTugas\\editOrder.cpp.obj"
 },
 {
   "directory": "F:/Tugas/strukturData/cpp/UTS/order-computer-system/build",
-  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\computer-management.dir\\src\\functionTugas\\displayStruk.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\displayStruk.cpp",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/UTS/order-computer-system/include -g -o CMakeFiles\\TokoKomputer.dir\\src\\functionTugas\\displayStruk.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\displayStruk.cpp",
   "file": "F:\\Tugas\\strukturData\\cpp\\UTS\\order-computer-system\\src\\functionTugas\\displayStruk.cpp",
-  "output": "CMakeFiles\\computer-management.dir\\src\\functionTugas\\displayStruk.cpp.obj"
+  "output": "CMakeFiles\\TokoKomputer.dir\\src\\functionTugas\\displayStruk.cpp.obj"
 }
 ]
