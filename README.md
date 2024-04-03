@@ -9,3 +9,5 @@ Program Toko Komputer berbasis Singly Linked List.
 - Menghapus pesanan yang sudah dibuat
 - Menampilkan struk pembayaran
 
+###
+Program ini dicompile dengan CMake.
